@@ -4,6 +4,7 @@ GitHub 사이트의 메인 페이지를 반응형으로 만듭니다.
 
 ## media options
 |종류|단위|
+|---|:---:|
 |Large Device|1024px 이상|
 |Medium Device|1024px 이하|
 |Small Device|768px 이하|
