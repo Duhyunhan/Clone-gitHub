@@ -1,5 +1,5 @@
 # 반응형 웹페이지 GitHub 클론코딩 
-GitHub 사이트의 메인 페이지를 반응형으로 만듭니다. 
+GitHub 사이트의 메인 페이지를 반응형으로 만듭니다.<br> 
 바닐라 JS, HTML5, CSS3만 사용
 
 ## media options
