@@ -9,4 +9,4 @@ GitHub 사이트의 메인 페이지를 반응형으로 만듭니다.
 |Small Device|768px 이하|
 
 ## Example
-[gitHub 클론예제] (https://duhyunhan.github.io/Clone-gitHub/)
+[gitHub 클론예제](https://duhyunhan.github.io/Clone-gitHub/)
